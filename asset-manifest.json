@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ultahkaybau/static/css/main.2f57082d.css",
+    "main.js": "/ultahkaybau/static/js/main.b12e7c6b.js",
+    "static/media/about5.png": "/ultahkaybau/static/media/about5.190861e96d8506b1940f.png",
+    "static/media/about12.png": "/ultahkaybau/static/media/about12.a8cd3ddff3cd31f6e3ef.png",
+    "static/media/about8.png": "/ultahkaybau/static/media/about8.8a903738caf38d5684fa.png",
+    "static/media/about4.png": "/ultahkaybau/static/media/about4.3702b9319e5efc56a383.png",
+    "static/media/about7.png": "/ultahkaybau/static/media/about7.bebb8e194a5a6fd670c8.png",
+    "static/media/about11.png": "/ultahkaybau/static/media/about11.d5d0a84551dfb3178ad0.png",
+    "static/media/footer1.png": "/ultahkaybau/static/media/footer1.85f28b2111c32cb4f3dd.png",
+    "static/media/about3.png": "/ultahkaybau/static/media/about3.0e89087dfe334ee0bb2f.png",
+    "static/media/about2.png": "/ultahkaybau/static/media/about2.9663edd498e040c9daba.png",
+    "static/media/about10.png": "/ultahkaybau/static/media/about10.441bfa8c715a6223220f.png",
+    "static/media/about1.png": "/ultahkaybau/static/media/about1.630587d79e12a18ec055.png",
+    "static/media/footer2.png": "/ultahkaybau/static/media/footer2.23cc0c694df8db48d7ac.png",
+    "static/media/about6.png": "/ultahkaybau/static/media/about6.a9659612363a125724ce.png",
+    "static/media/about9.png": "/ultahkaybau/static/media/about9.ecd2a01465aceb8892f5.png",
+    "static/media/foto1.png": "/ultahkaybau/static/media/foto1.db38a8820c19d03796a7.png",
+    "index.html": "/ultahkaybau/index.html",
+    "main.2f57082d.css.map": "/ultahkaybau/static/css/main.2f57082d.css.map",
+    "main.b12e7c6b.js.map": "/ultahkaybau/static/js/main.b12e7c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f57082d.css",
+    "static/js/main.b12e7c6b.js"
+  ]
+}
